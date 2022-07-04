@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with *ZestMoney*
+- 🌱 I’m currently learning *Rust*
+- 👯 I’m looking to collaborate on Jetpack Compose
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about *Android*
+- 📫 How to reach me: t.me/catmelater
