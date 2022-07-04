@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=31269655)
 
 - 🔭 I’m currently working with *ZestMoney*
 - 🌱 I’m currently learning *Rust*
