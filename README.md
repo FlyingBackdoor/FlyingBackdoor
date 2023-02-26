@@ -20,6 +20,7 @@
 ![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=zsh&color=36465D&logoColor=AAA&style=flat-square)
+![hits](https://hit.yhype.me/github/profile?user_id=31269655)
 
 ----
 
@@ -37,5 +38,3 @@
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://sohair.dev](https://sohair.dev) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
-
-![](https://hit.yhype.me/github/profile?user_id=31269655)
