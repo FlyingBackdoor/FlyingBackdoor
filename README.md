@@ -1,8 +1,7 @@
 ### 👋Hi, I'm Sohair! &nbsp;&nbsp;<sup>🤖 &#12299; I build android apps. Kotlin and Linux Advocate.
 </sup>
-**Senior Software Engineer** &#12299;_@Kadel Labs, working in Android development_
 
-- 🧑‍💻 I’m currently working with Novopay.
+- 🧑‍💻 I’m currently working on a freelance project.
 - 🌱 I’m currently learning KMM and Rust.
 - 👯 I’m looking to collaborate on android projects as a freelancer.
 - ❤️ Linux🐧
