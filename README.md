@@ -1,8 +1,8 @@
 ### 👋Hi, I'm Sohair! &nbsp;&nbsp;<sup>🤖 &#12299; I build android apps. Kotlin and Linux Advocate.
 </sup>
 
-- 🧑‍💻 I’m currently working on a freelance project.
-- 🌱 I’m currently learning KMM and Rust.
+- 🧑‍💻 I’m currently open for work.
+- 🌱 I’m currently learning KMM.
 - 👯 I’m looking to collaborate on android projects as a freelancer.
 - ❤️ Linux🐧
 
